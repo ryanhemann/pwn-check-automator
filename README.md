@@ -19,7 +19,7 @@
      - 3. Install Pip: Make sure you have pip (Python package manager) installed. It is usually included with Python. To check, open your IDE terminal/command prompt and run:
         pip --version
         If not installed, you can install it following the official guide.
-     - 4. API Key: Obtain an API key from Have I Been Pwned (HIBP). Visit haveibeenpwned.com/API/Key and follow the instructions to get your key. For this demonstration, I have chosen the $4/month plan. 
+     - 4. API Key: Obtain an API key from Have I Been Pwned (HIBP). Visit [https://www.haveibeenpwned.com/API/Key](https://www.haveibeenpwned.com/API/Key) and follow the instructions to get your key. For this demonstration, I have chosen the $4/month plan. 
   - Installation Steps:
     - [1.] Download the PwnCheck Automator Script:
        - Clone or download the PwnCheck Automator project from its Github repository.
