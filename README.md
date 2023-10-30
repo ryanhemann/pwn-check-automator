@@ -14,8 +14,8 @@
 - <b>Installation:</b>
   - PwnCheck Automator Installation Manual: This installation manual guides you through setting up the PwnCheck Automator, a Python tool to automate email security breach checks using the Have I Been Pwned service and update an Excel spreadsheet with the results.
   - Prerequisites:
-     - 1. Install Code Editor: Ensure you have a code editor installed. You are welcome to use your preference here. In this demonstration I will be using VisualStudio Code. Download and install VisualStudio Code from [Visual Studio's Website]([https://code.visualstudio.com/])
-     - 2. Install Python: Ensure you have Python installed. Download and install Python from python.org.
+     - 1. Install Code Editor: Ensure you have a code editor installed. You are welcome to use your preference here. In this demonstration I will be using VisualStudio Code. Download and install VisualStudio Code from [Visual Studio's Website](https://code.visualstudio.com/)
+     - 2. Install Python: Ensure you have Python installed. Download and install Python from [python.org](https://www.python.org).
      - 3. Install Pip: Make sure you have pip (Python package manager) installed. It is usually included with Python. To check, open your IDE terminal/command prompt and run:
         pip --version
         If not installed, you can install it following the official guide.
