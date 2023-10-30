@@ -1,7 +1,7 @@
 <h1>Email PwnCheck Automatator Tool</h1>
 
 - <b>Project Description:</b> 
-  - The Email PwnCheck Automator is a Python tool designed to aid security professionals by automating the process of checking email addresses for security breaches. It leverages the 'Have I Been Pwned' service to search for breached email accounts and updates the results to an Excel spreadsheet. This project utilizes Python for scripting and the pandas library for data manipulation, and it is integrated with the Have I Been Pwned API. The tool significantly reduces manual effot and human error in monitoring email security, enhances proactive breach detection, and ensures data integrity by automating the update of breach information into the generated spread sheet report.
+  - The Email PwnCheck Automator is a Python tool designed to aid security professionals by automating the process of checking email addresses for security breaches. It leverages the 'Have I Been Pwned' service to search for breached email accounts and updates the results to an Excel spreadsheet. This project utilizes Python for scripting and the pandas library for data manipulation, and it is integrated with the Have I Been Pwned API. The tool significantly reduces manual effot and human error in monitoring email security, enhances proactive breach detection, and ensures data integrity by automating the update of breach information into the generated .xlsx spread sheet report.
 
 - <b>Table of Contents:</b>
   - [Project Description]
@@ -42,7 +42,7 @@
      
 
 - <b>Usage:</b>
-  - Once you have all of the prerquisities complete and you have your script operational on your machine, you will have to feed it an input file. This will be done by creating an .xlxs file (in either Google Docs or Microsoft Word)
+  - Once you have all of the prerquisities complete and you have your script operational on your machine, you will have to feed it an input file. This will be done by creating an .xlsx file (in either Google Docs or Microsoft Word)
   - In the location A1, input 'Email' exactly as you see it on the screen
   - Load in all of the emails you would like to check in this column
   - Save the file as whatever you have named your input file in the Automator script and ensure it is saved in the working directory of the script
