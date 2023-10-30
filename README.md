@@ -32,21 +32,21 @@
     - [2.] Navigate to the Project Directory:
        - Using your terminal or command prompt, change your working directory to the folder where you downloaded the project. For example:
        - 'cd /path/to/pwncheck-automation'
-        - ![pathtodirectory](cdusersryanhemanndownloads.png)
+        - ![pathtodirectory](pwncheck-images/cdusersryanhemanndownloads.png)
     - [3.] Install Python Dependencies:
        - Run the following command to install the necessary Python libraries (pandas and requests):
        - 'pip install pandas requests'
-       - ![pipinstall](pipinstall.png)
+       - ![pipinstall](pwncheck-images/pipinstall.png)
     - [4.] Edit Configuration:
        - Open the config.py file in the project directory and add your HIBP API key:
        - 'API_KEY = 'YOUR_API_KEY_HERE'
-       - ![apikey](apikey.png)
+       - ![apikey](pwncheck-images/apikey.png)
     - [5.] Prepare the Input File:
        - Create an .xlsx spreadsheet (e.g., input_file.xlsx) with a column 'A1' labeled "Email" containing the email addresses you want to check.
-       - ![inputfilename](xlsxfile.png)      
+       - ![inputfilename](pwncheck-images/xlsxfile.png)      
     - [6.] View the Output:
        - Once the script finishes, you'll find the updated .xlsx file in the same directory with a new filename (e.g., output_file_TIMESTAMP.xlsx).
-       - ![outputfilepicture](outputfile.png)
+       - ![outputfilepicture](pwncheck-images/outputfile.png)
 
 <br>     
 
@@ -56,9 +56,9 @@
   - Load in all of the emails you would like to check in A column starting at A2.
   - Save the file as whatever you have named your input file in the Automator script and ensure it is saved in the working directory of the script.
   - Run the script, it should look something like this if it's working:
-  - ![scriptrunning](scriptrunning.png)
+  - ![scriptrunning](pwncheck-images/scriptrunning.png)
   - Once the script finished, the output file should look something like this:
-  - ![outputresults](outfileresults.png)
+  - ![outputresults](pwncheck-images/outfileresults.png)
 
 <br>
 
