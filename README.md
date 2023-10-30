@@ -25,11 +25,7 @@ This installation manual guides you through setting up the PwnCheck Automator, a
 
 2. **Install Python:** Ensure you have Python installed. Download and install Python from [python.org](https://www.python.org).
 
-3. **Install Pip:** Make sure you have pip (Python package manager) installed. It is usually included with Python. To check, open your IDE terminal/command prompt and run:
-
-pip --version
-
-If not installed, you can install it following the [official guide](https://pip.pypa.io/en/stable/installation/).
+3. **Install Pip:** Make sure you have pip (Python package manager) installed. It is usually included with Python. To check, open your IDE terminal/command prompt and run: 'pip --version' If not installed, you can install it following the [official guide](https://pip.pypa.io/en/stable/installation/).
 
 4. **API Key:** Obtain an API key from Have I Been Pwned (HIBP). Visit [haveibeenpwned.com/API/Key](https://www.haveibeenpwned.com/API/Key) and follow the instructions to get your key. For this demonstration, I have chosen the $4/month plan.
 
