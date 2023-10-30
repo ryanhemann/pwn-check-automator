@@ -32,7 +32,8 @@
     - [2.] Navigate to the Project Directory:
        - Using your terminal or command prompt, change your working directory to the folder where you downloaded the project. For example:
        - 'cd /path/to/pwncheck-automation'
-        - Picture
+        - ![pathtodirectory](pwn-check-automator
+/cdusersryanhemanndownloads.png)
     - [3.] Install Python Dependencies:
        - Run the following command to install the necessary Python libraries (pandas and requests):
        - 'pip install pandas requests'
