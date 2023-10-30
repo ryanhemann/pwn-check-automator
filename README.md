@@ -36,7 +36,7 @@
     - [3.] Install Python Dependencies:
        - Run the following command to install the necessary Python libraries (pandas and requests):
        - 'pip install pandas requests'
-       - Picture
+       - ![pipinstall](pipinstall.png)
     - [4.] Edit Configuration:
        - Open the config.py file in the project directory and add your HIBP API key:
        - 'API_KEY = 'YOUR_API_KEY_HERE'
