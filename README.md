@@ -42,7 +42,7 @@
        - 'API_KEY = 'YOUR_API_KEY_HERE'
        - ![apikey](apikey.png)
     - [5.] Prepare the Input File:
-       - Create an .xlsx spreadsheet (e.g., input_file.xlsx) with a column labeled "Email" containing the email addresses you want to check.
+       - Create an .xlsx spreadsheet (e.g., input_file.xlsx) with a column 'A1' labeled "Email" containing the email addresses you want to check.
        - ![inputfilename](xlsxfile.png)      
     - [6.] View the Output:
        - Once the script finishes, you'll find the updated .xlsx file in the same directory with a new filename (e.g., output_file_TIMESTAMP.xlsx).  
