@@ -56,7 +56,7 @@
   - Load in all of the emails you would like to check in this column
   - Save the file as whatever you have named your input file in the Automator script and ensure it is saved in the working directory of the script
   - Run the script, it should look something like this if it's working:
-  - Picture of script running
+  - ![scriptrunning](scriptrunning.png)
   - Once the script finished, the output file should look something like this:
   - ![outputresults](outfileresults.png)
 
