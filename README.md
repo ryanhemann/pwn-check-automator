@@ -35,23 +35,17 @@ This installation manual guides you through setting up the PwnCheck Automator, a
 - Clone or download the PwnCheck Automator project from its Github repository.
 
 2. **Navigate to the Project Directory:**
-- Using your terminal or command prompt, change your working directory to the folder where you downloaded the project. For example:
-
-cd /path/to/pwncheck-automation
+- Using your terminal or command prompt, change your working directory to the folder where you downloaded the project. For example: 'cd /path/to/pwncheck-automation'
 
 ![pathtodirectory](pwncheck-images/cdusersryanhemanndownloads.png)
 
 3. **Install Python Dependencies:**
-- Run the following command to install the necessary Python libraries (pandas and requests):
-
-pip install pandas requests
+- Run the following command to install the necessary Python libraries (pandas and requests): 'pip install pandas requests'
 
 ![pipinstall](pwncheck-images/pipinstall.png)
 
 4. **Edit Configuration:**
-- Open the config.py file in the project directory and add your HIBP API key:
-
-API_KEY = 'YOUR_API_KEY_HERE'
+- Open the config.py file in the project directory and add your HIBP API key: 'API_KEY = 'YOUR_API_KEY_HERE''
 
 ![apikey](pwncheck-images/apikey.png)
 
