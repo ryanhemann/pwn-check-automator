@@ -58,7 +58,7 @@
   - Run the script, it should look something like this if it's working:
   - Picture of script running
   - Once the script finished, the output file should look something like this:
-  - Picture of output file
+  - ![outputresults](outfileresults.png)
 
 <br>
 
