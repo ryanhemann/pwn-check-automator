@@ -40,7 +40,7 @@
     - [4.] Edit Configuration:
        - Open the config.py file in the project directory and add your HIBP API key:
        - 'API_KEY = 'YOUR_API_KEY_HERE'
-       - Picture
+       - ![apikey](apikey.png)
     - [5.] Prepare the Input File:
        - Create an .xlsx spreadsheet (e.g., input_file.xlsx) with a column labeled "Email" containing the email addresses you want to check.      
     - [6.] View the Output:
