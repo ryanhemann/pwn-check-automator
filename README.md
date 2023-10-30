@@ -51,10 +51,10 @@
 <br>     
 
 - <b>Usage:</b>
-  - Once you have all of the prerquisities complete and you have your script operational on your machine, you will have to feed it an input file. This will be done by creating an .xlsx file (in either Google Docs or Microsoft Word)
-  - In the location A1, input 'Email' exactly as you see it on the screen
-  - Load in all of the emails you would like to check in this column
-  - Save the file as whatever you have named your input file in the Automator script and ensure it is saved in the working directory of the script
+  - Once you have all of the prerquisities complete and you have your script operational on your machine, you will have to feed it an input file. This will be done by creating an .xlsx file (in either Google Docs or Microsoft Word).
+  - In the location A1, input 'Email' or exactly as has you have it written in your python script.
+  - Load in all of the emails you would like to check in A column starting at A2.
+  - Save the file as whatever you have named your input file in the Automator script and ensure it is saved in the working directory of the script.
   - Run the script, it should look something like this if it's working:
   - ![scriptrunning](scriptrunning.png)
   - Once the script finished, the output file should look something like this:
