@@ -37,27 +37,47 @@ This installation manual guides you through setting up the PwnCheck Automator, a
 2. **Navigate to the Project Directory:**
 - Using your terminal or command prompt, change your working directory to the folder where you downloaded the project. For example: 'cd /path/to/pwncheck-automation'
 
+<br>
+
 ![pathtodirectory](pwncheck-images/cdusersryanhemanndownloads.png)
+
+<br>
 
 3. **Install Python Dependencies:**
 - Run the following command to install the necessary Python libraries (pandas and requests): 'pip install pandas requests'
 
+<br>
+
 ![pipinstall](pwncheck-images/pipinstall.png)
+
+<br>
 
 4. **Edit Configuration:**
 - Open the config.py file in the project directory and add your HIBP API key: 'API_KEY = 'YOUR_API_KEY_HERE''
 
+<br>
+
 ![apikey](pwncheck-images/apikey.png)
+
+<br>
 
 5. **Prepare the Input File:**
 - Create an .xlsx spreadsheet (e.g., input_file.xlsx) with a column 'A1' labeled "Email" containing the email addresses you want to check.
-  
+
+<br>  
+
 ![inputfilename](pwncheck-images/xlsxfile.png)
+
+<br>
 
 6. **View the Output:**
 - Once the script finishes, you'll find the updated ..xlsx file in the same directory with a new filename (e.g., output_file_TIMESTAMP.xlsx).
-  
+
+<br>
+
 ![outputfilepicture](pwncheck-images/outputfile.png)
+
+<br>
 
 ## Usage:
 
@@ -66,8 +86,17 @@ In the location A1, input 'Email' or exactly as has you have it written in your 
 Load in all the emails you would like to check in A column starting at A2.
 Save the file as whatever you have named your input file in the Automator script and ensure it is saved in the working directory of the script.
 Run the script, it should look something like this if it's working:
+
+<br>
+
 ![scriptrunning](pwncheck-images/scriptrunning.png)
+
+<br>
+
 Once the script finishes, the output file should look something like this:
+
+<br>
+
 ![outputresults](pwncheck-images/outfileresults.png)
 
 ## Features:
