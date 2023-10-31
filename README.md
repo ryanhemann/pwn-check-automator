@@ -101,4 +101,25 @@ Once the script finishes, the output file should look something like this:
 
 ## Features:
 
+- **Automated Breach Checks:** The tool automates the process of checking email addresses for security breaches, reducing manual effort and enhancing efficiency.
+
+- **Integration with 'Have I Been Pwned':** It seamlessly integrates with the 'Have I Been Pwned' service, a trusted source for breach data, ensuring accurate and up-to-date results.
+
+- **Support for Multiple Email Addresses:** Users can check multiple email addresses for security breaches in a single run, making it suitable for individual and organizational use.
+
+- **Data Integrity:** By updating breach information to an .xlsx spreadsheet, the tool ensures data integrity and provides a reliable source for breach reports.
+
+- **Customizable Installation:** The installation process is straightforward and customizable, allowing users to set up the tool to fit their specific environment.
+
+- **Rate Limiting:** The tool handles rate limiting effectively, preventing abuse of the 'Have I Been Pwned' API and ensuring responsible usage.
+
+- **Detailed Reporting:** It generates detailed reports, listing breached email addresses and associated breach names, facilitating proactive breach detection.
+
+- **Error Handling:** The tool provides error handling for cases where email addresses are not found in any breaches or when other issues arise during the checking process.
+
+- **Timestamped Output Files:** Each run generates an output file with a timestamp in the filename, making it easy to track and manage reports over time.
+
+- **Open-Source and Community-Driven:** The project is open-source, allowing for contributions from the community, code reviews, and continuous improvements.
+
+
 ## Examples:
