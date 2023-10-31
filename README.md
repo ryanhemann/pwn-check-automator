@@ -123,3 +123,8 @@ Once the script finishes, the output file should look something like this:
 
 
 ## Examples:
+
+1. **Incident Response Readiness:** In preparation for incident response scenarios, an organization uses the PwnCheck tool to maintain an up-to-date list of breached email addresses within their network. By automating this process, the organization can swiftly respond to potential security incidents involving employee email accounts, minimizing the impact of data breaches.
+
+2. **Third-Party Vendor Assessment:** An organization relies on third-party vendors to support critical services. To ensure vendor security, the organization uses the PwnCheck tool to regularly check vendor-provided email addresses for breaches. This practice helps identify and address security vulnerabilities in vendor accounts, reducing the risk of data breaches through third-party access.
+
